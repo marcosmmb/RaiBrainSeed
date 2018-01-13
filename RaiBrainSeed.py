@@ -21,7 +21,6 @@ def bt_click():
 window = tk.Tk()
 window.title("Rai Brain Seed")
 window.geometry("700x300+150+150")
-window.wm_iconbitmap("icon.ico")
 
 var = tk.StringVar()
 
