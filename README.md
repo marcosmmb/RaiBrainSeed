@@ -1,5 +1,5 @@
 # Rai Brain Seed
-A brain seed algorithm to RaiBlocks
+A brain seed algorithm for Nano
 
 ----
 
